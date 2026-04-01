@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="300">
+ <rect width="600" height="300" fill="#1e1e1e" rx="8"/>
+ <rect x="0" y="0" width="600" height="30" fill="#333" rx="8"/>
+ <circle cx="18" cy="15" r="5" fill="#ff5f56"/>
+ <circle cx="35" cy="15" r="5" fill="#ffbd2e"/>
+ <circle cx="52" cy="15" r="5" fill="#27c93f"/>
+ <text x="250" y="19" font-family="Consolas" font-size="12" fill="#999" text-anchor="middle">Terminal</text>
+ <text x="20" y="60" font-family="Consolas" font-size="13" fill="#4EC9B0">$</text>
+ <text x="35" y="60" font-family="Consolas" font-size="13" fill="#ddd">python main.py --help</text>
+ <text x="20" y="85" font-family="Consolas" font-size="13" fill="#888">ghost tool v1.2.0</text>
+ <text x="20" y="115" font-family="Consolas" font-size="13" fill="#888">Usage: main.py [OPTIONS] COMMAND</text>
+ <text x="20" y="145" font-family="Consolas" font-size="13" fill="#888">Options:</text>
+ <text x="20" y="170" font-family="Consolas" font-size="13" fill="#569CD6"> -c, --config</text>
+ <text x="180" y="170" font-family="Consolas" font-size="13" fill="#888">Config file path</text>
+ <text x="20" y="195" font-family="Consolas" font-size="13" fill="#569CD6"> -v, --verbose</text>
+ <text x="180" y="195" font-family="Consolas" font-size="13" fill="#888">Debug logging</text>
+ <text x="20" y="225" font-family="Consolas" font-size="13" fill="#888">Commands:</text>
+ <text x="20" y="250" font-family="Consolas" font-size="13" fill="#4EC9B0"> run</text>
+ <text x="80" y="250" font-family="Consolas" font-size="13" fill="#888">Start quicktool</text>
+ <text x="20" y="275" font-family="Consolas" font-size="13" fill="#4EC9B0"> config</text>
+ <text x="100" y="275" font-family="Consolas" font-size="13" fill="#888">Edit settings</text>
+</svg>
